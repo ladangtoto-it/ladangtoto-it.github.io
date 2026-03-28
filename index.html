@@ -2384,6 +2384,20 @@ btn.classList.toggle("active")
     </div>
 </div>
 
+<div style="display:none;">
+    <a href="https://kas138jp.it.com/">kas138</a>
+    <a href="https://www.kas138news.com/">kas138</a>
+    <a href="https://aisyahhumaira.com/">kas138</a>
+    <a href="https://hipmibelu.org/">kas138</a>
+    <a href="https://www.mugglethai.com/">kas138</a>
+    <a href="https://meja138.it.com/">meja138</a>
+    <a href="https://toto4d.jp.net/">toto4d</a>
+    <a href="https://slot500.it.com/">slot500</a>
+    <a href="https://jp500a.it.com/">jp500</a>
+    <a href="https://ladangtoto.it.com/">ladangtoto</a>
+    <a href="https://spin88bet.it.com/">spin88</a>
+</div>
+
 </div>
 
 <script src="https://asset.kompas.com/data/2022/12/27/1003/kompascom/copy_credit.min.js" type="text/javascript"></script>
